@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="http://academicpages.github.io/files/cv.pdf" width="800px" height="2100px" />
+<embed src="http://ViniciusMikuni.github.io/files/cv.pdf" width="800px" height="2100px" />
