@@ -15,7 +15,7 @@ As a physicist by trade, my [PhD Thesis](https://cds.cern.ch/record/2781479/file
 Recent Publications
 ======
 
-<img style="float: left;" src="http://academicpages.github.io/images/paper_rarenotuniversal.png">
+<img style="float: left;" src="http://ViniciusMikuni.github.io/images/paper_rarenotuniversal.png">
 
 [Anomaly detection under coordinate transformations](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.015009)
 ------
