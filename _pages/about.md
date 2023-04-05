@@ -15,6 +15,12 @@ As a physicist by trade, my [PhD Thesis](https://cds.cern.ch/record/2781479/file
 Recent Publications
 ======
 
+<img style="float: right;padding: 10px 10px 10px 10px;" src="http://ViniciusMikuni.github.io/images/FPCD.png" width=300>
+[Fast Point Cloud Generation with Diffusion Models in High Energy Physics](https://arxiv.org/pdf/2304.01266.pdf)
+------
+Many particle physics datasets like those generated at colliders are described by continuous coordinates (in contrast to grid points like in an image), respect a number of symmetries (like permutation invariance), and have a stochastic dimensionality.  For this reason, standard deep generative models that produce images or at least a fixed set of features are limiting.  We introduce a new neural network simulation based on a diffusion model that addresses these limitations named Fast Point Cloud Diffusion (FPCD).  We show that our approach can reproduce the complex properties of hadronic jets from proton-proton collisions with competitive precision to other recently proposed models.  Additionally, we use a procedure called progressive distillation to accelerate the generation time of our method, which is typically a significant challenge for diffusion models despite their state-of-the-art precision.
+
+
 <img style="float: left;padding: 10px 10px 10px 10px;" src="http://ViniciusMikuni.github.io/images/paper_rarenotuniversal.png" width=300>
 [Anomaly detection under coordinate transformations](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.015009)
 ------
