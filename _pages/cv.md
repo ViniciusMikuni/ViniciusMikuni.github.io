@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can access my CV from [here](http://ViniciusMikuni.github.io/files/cv.pdf)
+You can access my CV from [here](http://ViniciusMikuni.github.io/files/CV_Mikuni_2025.pdf)
