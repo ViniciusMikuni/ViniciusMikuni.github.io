@@ -23,6 +23,17 @@ As a physicist by trade, my [PhD Thesis](https://cds.cern.ch/record/2781479/file
 Recent Publications
 ======
 
+<img style="float: left;padding: 10px 10px 10px 10px;" src="http://ViniciusMikuni.github.io/images/efficiency_scan.gif" width=500>
+[Searching for Anomalies with Foundation Models](https://arxiv.org/pdf/2603.23593)
+------
+Foundation models have the potential to expand the discovery reach for anomaly detection searches.  When studying the large OmniLearned foundation model on data from the CMS experiment, unexpected behavior was observed in a mass sideband.  The purpose of this paper is to perform a full analysis, including a complete background estimate, on the phase space selected by the large model.  We find that the background estimation describes the data well in validation regions, but is unable to accurately model the signal region.  We invite further scrutiny of these events and our methods.
+
+
+<img style="float: right;padding: 10px 10px 10px 10px;" src="http://ViniciusMikuni.github.io/images/cosmos.png" width=500>
+[OmniCosmos: Transferring Particle Physics Knowledge Across the Cosmos](https://arxiv.org/abs/2512.24422v1)
+------
+Foundation models build an effective representations of data that can be deployed on diverse downstream tasks. Previous research developed the OmniLearned foundation model for collider physics and showed that it could significantly advance discovery potential across collider experiments. In this paper we go beyond collider physics and show that Foundation Models trained on collider data can help improve the prediction of cosmological parameters and to predict halo and galaxy velocities in different datasets from CosmoBench. This is the first time a collider physics model is shown to generalize across scientific fields. 
+
 <img style="float: left;padding: 10px 10px 10px 10px;" src="http://ViniciusMikuni.github.io/images/top_tagging_rej30.png" width=500>
 [OmniLearned: A Foundation Model Framework for All Tasks Involving Jet Physics](https://arxiv.org/abs/2510.24066)
 ------
