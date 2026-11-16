@@ -1,0 +1,108 @@
+- title: Foundation models for real-time physics
+  tag: Foundation models
+  year: '2026'
+  arxiv: '2609.26899'
+  image: highlights/2609.26899-figure-1.png
+  alt: Top-quark tagging receiver operating characteristic curves comparing compact
+    models and distillation; Figure 1.
+  summary: We distill the knowledge of OmniLearned into compact, attention-free networks
+    for top-quark jet tagging. Message passing and pretrained teacher predictions
+    improve background rejection, especially at the low signal efficiencies relevant
+    for real-time triggers.
+- title: Choosing what foundation models learn
+  tag: Foundation models
+  year: '2026'
+  arxiv: '2606.14870'
+  image: highlights/2606.14870-figure-2.png
+  alt: OmniLearned forward-pass architecture with classification, flow-matching, and
+    masked-particle training objectives; Figure 2.
+  summary: 'We compare classification, flow matching, and masked-particle pretraining
+    within OmniLearned. The best objective depends on the downstream task and available
+    labels: masking complements classification when labels are scarce, while generative
+    transfer requires generative pretraining.'
+- title: From collider jets to neutrino interactions
+  tag: Cross-domain learning
+  year: '2026'
+  arxiv: '2604.12364'
+  image: highlights/2604.12364-figure-1.png
+  alt: Transfer learning from collider jet data to neutrino interactions in MINERvA;
+    Figure 1.
+  summary: Knowledge learned from collider data transfers to few-GeV neutrino interactions
+    in MINERvA. Pretrained OmniLearned and ParticleViT models improve energy regression
+    and event classification at matched compute budgets, despite large differences
+    in detectors, energy scales, and physics processes.
+- title: Generating entire heavy-ion events
+  tag: Fast simulation
+  year: '2026'
+  arxiv: '2604.06458'
+  image: highlights/2604.06458-figure-6.png
+  alt: Azimuthal particle-pair correlations and trigger transverse momentum for OmniLearn
+    and Angantyr heavy-ion events; Figure 6.
+  summary: A point-cloud diffusion model learns lower-multiplicity oxygen collisions
+    before adapting to lead collisions. We assess generated high-multiplicity events
+    through particle observables, collective flow, reconstructed jets, and classifier-based
+    fidelity tests.
+- title: Diffusion models for gamma-ray astronomy
+  tag: Fast simulation
+  year: '2026'
+  arxiv: '2603.06364'
+  image: highlights/2603.06364-figure-10.png
+  alt: Simulated proton shower images from Monte Carlo, WGAN, and score-based diffusion
+    models for H.E.S.S.; Figure 10.
+  summary: We generate gamma-ray and proton shower images for H.E.S.S. with score-based
+    diffusion models. Tests of image structure, correlations, and gamma–hadron separation
+    show improved fidelity over GANs, including the more challenging proton showers.
+- title: Searching for anomalies with foundation models
+  tag: Anomaly detection
+  year: '2026'
+  arxiv: '2603.23593'
+  image: efficiency_scan.gif
+  alt: Mass-distribution scan for the OmniLearned anomaly-search analysis
+  summary: Using OmniLearned to select events in CMS data, we test a complete background
+    estimate. The estimate describes validation regions but does not accurately model
+    the signal region, motivating further scrutiny of both the events and the method.
+- title: 'OmniCosmos: from particles to the cosmos'
+  tag: Foundation models
+  year: '2025'
+  arxiv: '2512.24422'
+  image: cosmos.png
+  alt: OmniCosmos results for transfer from collider physics to cosmological tasks
+  summary: Can a model trained on collider data help with cosmology? OmniCosmos transfers
+    representations from OmniLearned to predict cosmological parameters and the velocities
+    of halos and galaxies.
+- title: 'OmniLearned: a foundation for jet physics'
+  tag: Foundation models
+  year: '2025'
+  arxiv: '2510.24066'
+  image: top_tagging_rej30.png
+  alt: Top-quark jet tagging performance of OmniLearned
+  summary: An updated architecture, training on more than one billion jets, and open
+    software bring shared representations to top tagging, ATLAS b-tagging, and anomaly
+    detection with CMS data.
+- title: 'FLEX: learning physical dynamics'
+  tag: Generative models
+  year: '2025'
+  arxiv: '2505.17351'
+  image: flex_sr.png
+  alt: FLEX super-resolution results on turbulent flow fields
+  summary: A diffusion architecture combining convolutional layers and a latent transformer
+    performs super-resolution and forecasting for turbulent flows, with uncertainty
+    estimates from sampling.
+- title: One representation, many jet physics tasks
+  tag: Foundation models
+  year: '2025'
+  arxiv: '2502.14652'
+  image: paper_omnilearn.png
+  alt: OmniLearn framework for generation and classification tasks
+  summary: OmniLearn uses joint generation and classification to build transferable
+    jet representations, supporting tagging, simulation, likelihood-ratio estimation,
+    and anomaly detection.
+- title: Generating events for the Electron-Ion Collider
+  tag: Generative models
+  year: '2024'
+  arxiv: '2410.22421'
+  image: paper_eic.png
+  alt: Point-cloud diffusion model results for Electron-Ion Collider events
+  summary: Point-Edge Transformers and diffusion models generate complete collider
+    events with particle identities and kinematics, while testing event-wide conservation
+    laws.

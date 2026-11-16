@@ -1,0 +1,10 @@
+- name: Ziyao Xiong
+  role: PhD Student
+  topic: Foundation Models for HEP
+  image: ziyao-xiong.png
+  alt: A white dog holding a yellow toy, chosen as Ziyao Xiong’s profile photo
+- name: Haley Bowden
+  role: Postdoc
+  topic: AI methods for Astro and Cosmology
+  image: haley-bowden.png
+  alt: Haley Bowden

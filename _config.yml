@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Vinicius Mikuni"
 title_separator          : "-"
 name                     : &name "Vinicius Mikuni"
-description              : &description "personal description"
+description              : &description "AI for the physical sciences. Vinicius Mikuni, Associate Professor at KMI, Nagoya University."
 url                      : https://ViniciusMikuni.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ViniciusMikuni/ViniciusMikuni.github.io"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Vinicius"
-  avatar           : "photo.jpg"
+  name             : "Vinicius Mikuni"
+  avatar           : "vinicius-mikuni.png"
   bio              : "Associate Professor at KMI developing machine learning methods for natural sciences."
   location         : "Nagoya, Japan"
   employer         :
@@ -175,6 +175,9 @@ kramdown:
 
 # Collections
 collections:
+  publications:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/

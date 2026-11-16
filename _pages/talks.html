@@ -1,16 +1,13 @@
 ---
-layout: archive
-title: "Talks and presentations"
+layout: research
+title: Talks and presentations
 permalink: /talks/
-author_profile: true
+excerpt: "Conference presentations, invited talks, and colloquia by Vinicius Mikuni."
 ---
-
-{% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+<div class="wrap">
+  <header class="page-intro"><p class="eyebrow">Sharing research</p><h1>Talks & presentations</h1><p>Conference presentations, invited talks, and colloquia. For the complete academic record, <a href="{{ '/cv/' | relative_url }}">see my CV</a>.</p></header>
+  <div class="talks-list">{% assign previous_year = '' %}{% for talk in site.data.talk_catalogue %}
+    {% if talk.year != previous_year %}<h2 class="talk-year">{{ talk.year }}</h2>{% assign previous_year = talk.year %}{% endif %}
+    <article class="talk"><div><p class="eyebrow">{{ talk.event | escape }}{% if talk.type != empty %} · {{ talk.type }}{% endif %}</p><h3>{% if talk.url != empty %}<a href="{{ talk.url | escape }}">{{ talk.title | escape }}</a>{% else %}{{ talk.title | escape }}{% endif %}</h3><p class="talk-location">{{ talk.location | escape }}</p></div>{% if talk.url != empty %}<a class="text-link talk-link" href="{{ talk.url | escape }}">Event details<span class="sr-only">: {{ talk.event | escape }}, {{ talk.year }}</span></a>{% endif %}</article>
+  {% endfor %}</div>
+</div>
