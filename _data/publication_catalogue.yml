@@ -1,0 +1,963 @@
+- title: Towards Foundation Models on Hardware Accelerators for Particle Physics
+  authors:
+  - Maya Benyas
+  - Julia Gonski
+  - Qibin Liu
+  - P. Alex May
+  - Vinicius Mikuni
+  - Benjamin Nachman
+  - Tanvi Wamorkar
+  - Liangyu Wu
+  date: '2026-09-22'
+  year: '2026'
+  reference: Preprint
+  arxiv: '2609.26899'
+  doi: ''
+  inspire_id: '3206686'
+  url: https://arxiv.org/abs/2609.26899
+  topics:
+  - Foundation models
+- title: Future of Artificial Intelligence for Science in Japan 2024 Community Report
+  authors:
+  - Yoshitaka Itow
+  - Jia Liu
+  - Hirokazu Maesaka
+  - Vinicius Mikuni
+  - Nhat-Minh Nguyen
+  - Hironao Miyatake
+  - Atsushi J. Nishizawa
+  - Patrick de Perio
+  - Daniel Ratner
+  - Kazuhiro Terao
+  - Leander Thiele
+  - Omar Alterkait
+  - Francois Drielsma
+  - Rocio Garcia
+  - Masako Iwasaki
+  - Ahsani Hafizhu Shali
+  - Federica Tarsitano
+  - Takahiro Terada
+  - Junjie Xia
+  date: '2026-08-28'
+  year: '2026'
+  reference: Preprint
+  arxiv: '2608.27807'
+  doi: ''
+  inspire_id: '3197366'
+  url: https://arxiv.org/abs/2608.27807
+  topics:
+  - Physics & methods
+- title: 'Pre-Training for Simulation-Based Science: A Study on Jet Foundation Model
+    Training Objectives'
+  authors:
+  - Ibrahim Elsharkawy
+  - Joschka Birk
+  - Vinicius Mikuni
+  - Wahid Bhimji
+  - Gregor Kasieczka
+  - Benjamin Nachman
+  date: '2026-06-12'
+  year: '2026'
+  reference: Preprint
+  arxiv: '2606.14870'
+  doi: ''
+  inspire_id: '3168748'
+  url: https://arxiv.org/abs/2606.14870
+  topics:
+  - Foundation models
+  - Generative models
+- title: 'Cross-Domain Transfer with Particle Physics Foundation Models: From Jets
+    to Neutrino Interactions'
+  authors:
+  - Gregor Krzmanc
+  - Vinicius Mikuni
+  - Benjamin Nachman
+  - Callum Wilkinson
+  date: '2026-04-14'
+  year: '2026'
+  reference: Preprint
+  arxiv: '2604.12364'
+  doi: ''
+  inspire_id: '3144709'
+  url: https://arxiv.org/abs/2604.12364
+  topics:
+  - Foundation models
+- title: Diffusion-Based Point-Cloud Generation of Heavy-Ion Events
+  authors:
+  - Rita Sadek
+  - Vinicius Mikuni
+  - Mateusz Ploskon
+  date: '2026-04-07'
+  year: '2026'
+  reference: Phys.Rev.C 114, 024904 (2026)
+  arxiv: '2604.06458'
+  doi: 10.1103/nmmz-bwcs
+  inspire_id: '3141720'
+  url: https://arxiv.org/abs/2604.06458
+  topics:
+  - Generative models
+- title: Searching for Anomalies with Foundation Models
+  authors:
+  - Vinicius Mikuni
+  - Benjamin Nachman
+  date: '2026-03-24'
+  year: '2026'
+  reference: Preprint
+  arxiv: '2603.23593'
+  doi: ''
+  inspire_id: '3134092'
+  url: https://arxiv.org/abs/2603.23593
+  topics:
+  - Foundation models
+  - Anomaly detection
+- title: Explicit or Implicit? Encoding Physics at the Precision Frontier
+  authors:
+  - Victor Breso-Pla
+  - Kevin Greif
+  - Vinicius Mikuni
+  - Benjamin Nachman
+  - Tilman Plehn
+  - Tanvi Wamorkar
+  - Daniel Whiteson
+  date: '2026-03-09'
+  year: '2026'
+  reference: Phys.Rev.D 114, 036034 (2026)
+  arxiv: '2603.08802'
+  doi: 10.1103/9hs2-prs5
+  inspire_id: '3128074'
+  url: https://arxiv.org/abs/2603.08802
+  topics:
+  - Physics & methods
+- title: Generation of Imaging Air Cherenkov Telescope images using Diffusion Models
+  authors:
+  - Christian Elflein
+  - Stefan Funk
+  - Jonas Glombitza
+  - Vinicius Mikuni
+  - Benjamin Nachman
+  - Lark Wang
+  date: '2026-03-06'
+  year: '2026'
+  reference: JCAP 08, 079 (2026)
+  arxiv: '2603.06364'
+  doi: 10.1088/1475-7516/2026/08/079
+  inspire_id: '3127487'
+  url: https://arxiv.org/abs/2603.06364
+  topics:
+  - Generative models
+- title: Foundation model for particle collision data analysis
+  authors:
+  - Ting-Hsiang Hsu
+  - Bai-Hong Zhou
+  - Qibin Liu
+  - Yue Xu
+  - Shu Li
+  - George Wei-Shu Hou
+  - Benjamin Nachman
+  - Shih-Chieh Hsu
+  - Vinicius Mikuni
+  - Yuan-Tang Chou
+  - Yulei Zhang
+  date: '2026-01-23'
+  year: '2026'
+  reference: Nature Machine Intelligence (2026)
+  arxiv: '2601.17126'
+  doi: 10.1038/s42256-026-01322-9
+  inspire_id: '3111399'
+  url: https://arxiv.org/abs/2601.17126
+  topics:
+  - Foundation models
+- title: 'OmniMol: Transferring Particle Physics Knowledge to Molecular Dynamics with
+    Point-Edge Transformers'
+  authors:
+  - Ibrahim Elsharkawy
+  - Vinicius Mikuni
+  - Wahid Bhimji
+  - Benjamin Nachman
+  date: '2026-01-15'
+  year: '2026'
+  reference: Preprint
+  arxiv: '2601.10791'
+  doi: ''
+  inspire_id: '3108519'
+  url: https://arxiv.org/abs/2601.10791
+  topics:
+  - Foundation models
+- title: 'OmniCosmos: Transferring Particle Physics Knowledge Across the Cosmos'
+  authors:
+  - Vinicius Mikuni
+  - Ibrahim Elsharkawy
+  - Benjamin Nachman
+  date: '2025-12-30'
+  year: '2025'
+  reference: PRX Intell. 1, 023004 (2026)
+  arxiv: '2512.24422'
+  doi: 10.1103/85gr-9vw6
+  inspire_id: '3096523'
+  url: https://arxiv.org/abs/2512.24422
+  topics:
+  - Foundation models
+- title: Machine Learning-based Unfolding for Cross Section Measurements in the Presence
+    of Nuisance Parameters
+  authors:
+  - Huanbiao Zhu
+  - Krish Desai
+  - Mikael Kuusela
+  - Vinicius Mikuni
+  - Benjamin Nachman
+  - Larry Wasserman
+  date: '2025-12-08'
+  year: '2025'
+  reference: Preprint
+  arxiv: '2512.07074'
+  doi: ''
+  inspire_id: '3090314'
+  url: https://arxiv.org/abs/2512.07074
+  topics:
+  - Inference & unfolding
+- title: SEAL - A Symmetry EncourAging Loss for High Energy Physics
+  authors:
+  - Pradyun Hebbar
+  - Thandikire Madula
+  - Vinicius Mikuni
+  - Benjamin Nachman
+  - Nadav Outmezguine
+  - Inbar Savoray
+  date: '2025-11-03'
+  year: '2025'
+  reference: Preprint
+  arxiv: '2511.01982'
+  doi: ''
+  inspire_id: '3076652'
+  url: https://arxiv.org/abs/2511.01982
+  topics:
+  - Physics & methods
+- title: 'OmniLearned: A Foundation Model Framework for All Tasks Involving Jet Physics'
+  authors:
+  - Wahid Bhimji
+  - Chris Harris
+  - Vinicius Mikuni
+  - Benjamin Nachman
+  date: '2025-10-28'
+  year: '2025'
+  reference: Phys.Rev.D 113, 032020 (2026)
+  arxiv: '2510.24066'
+  doi: 10.1103/knmd-f5jm
+  inspire_id: '3074318'
+  url: https://arxiv.org/abs/2510.24066
+  topics:
+  - Foundation models
+- title: Unbinned measurement of thrust in e⁺e⁻ collisions at √s = 91.2 GeV with ALEPH
+    archived data
+  authors:
+  - The Electron-Positron Alliance
+  - Anthony Badea
+  - Austin Baty
+  - Hannah Bossi
+  - Yu-Chen Chen
+  - Yi Chen
+  - Jingyu Zhang
+  - Gian Michele Innocenti
+  - Marcello Maggi
+  - Chris McGinn
+  - Michael Peters
+  - Tzu-An Sheng
+  - Vinicius Mikuni
+  - Matthew Avaylon
+  - Patrick Komiske
+  - Eric Metodiev
+  - Jesse Thaler
+  - Benjamin Nachman
+  - Yen-Jie Lee
+  date: '2025-10-24'
+  year: '2025'
+  reference: Preprint
+  arxiv: '2510.22038'
+  doi: ''
+  inspire_id: '3073756'
+  url: https://arxiv.org/abs/2510.22038
+  topics:
+  - Physics & methods
+- title: Neural Posterior Unfolding
+  authors:
+  - Fernando Torales Acosta
+  - Jay Chan
+  - Krish Desai
+  - Vinicius Mikuni
+  - Benjamin Nachman
+  - Jingjing Pan
+  - Francesco Rubbo
+  date: '2025-09-08'
+  year: '2025'
+  reference: JINST 21, P03004 (2026)
+  arxiv: '2509.06370'
+  doi: 10.1088/1748-0221/21/03/P03004
+  inspire_id: '2967396'
+  url: https://arxiv.org/abs/2509.06370
+  topics:
+  - Inference & unfolding
+- title: Analysis-ready Generative Unfolding
+  authors:
+  - Anja Butter
+  - Nathan Huetsch
+  - Vinicius Mikuni
+  - Benjamin Nachman
+  - Sofia Palacios Schweitzer
+  date: '2025-09-02'
+  year: '2025'
+  reference: Preprint
+  arxiv: '2509.02708'
+  doi: ''
+  inspire_id: '2966248'
+  url: https://arxiv.org/abs/2509.02708
+  topics:
+  - Generative models
+  - Inference & unfolding
+- title: 'Analysis note: measurement of thrust in e⁺e⁻ collisions at √s = 91 GeV with
+    archived ALEPH data'
+  authors:
+  - Anthony Badea
+  - Austin Baty
+  - Hannah Bossi
+  - Yu-Chen Chen
+  - Yi Chen
+  - Jingyu Zhang
+  - Gian Michele Innocenti
+  - Marcello Maggi
+  - Chris McGinn
+  - Michael Peters
+  - Tzu-An Sheng
+  - Vinicius Mikuni
+  - Matthew Avaylon
+  - Patrick Komiske
+  - Eric Metodiev
+  - Jesse Thaler
+  - Benjamin Nachman
+  - Yen-Jie Lee
+  date: '2025-07-18'
+  year: '2025'
+  reference: Preprint
+  arxiv: '2507.14349'
+  doi: ''
+  inspire_id: '2952448'
+  url: https://arxiv.org/abs/2507.14349
+  topics:
+  - Physics & methods
+- title: A Practical Guide to Unbinned Unfolding
+  authors:
+  - Florencia Canelli
+  - Kyle Cormier
+  - Andrew Cudd
+  - Dag Gillberg
+  - Roger G. Huang
+  - Weijie Jin
+  - Sookhyun Lee
+  - Vinicius Mikuni
+  - Laura Miller
+  - Benjamin Nachman
+  - Jingjing Pan
+  - Tanmay Pani
+  - Mariel Pettee
+  - Youqi Song
+  - Fernando Torales
+  date: '2025-07-13'
+  year: '2025'
+  reference: Eur.Phys.J.C 86, 106 (2026)
+  arxiv: '2507.09582'
+  doi: 10.1140/epjc/s10052-025-15265-9
+  inspire_id: '2945899'
+  url: https://arxiv.org/abs/2507.09582
+  topics:
+  - Inference & unfolding
+- title: Generator Based Inference (GBI)
+  authors:
+  - Chi Lung Cheng
+  - Ranit Das
+  - Runze Li
+  - Radha Mastandrea
+  - Vinicius Mikuni
+  - Benjamin Nachman
+  - David Shih
+  - Gup Singh
+  date: '2025-05-30'
+  year: '2025'
+  reference: Preprint
+  arxiv: '2506.00119'
+  doi: ''
+  inspire_id: '2928187'
+  url: https://arxiv.org/abs/2506.00119
+  topics:
+  - Generative models
+  - Inference & unfolding
+- title: 'FLEX: A Backbone for Diffusion-Based Modeling of Spatio-temporal Physical
+    Systems'
+  authors:
+  - N. Benjamin Erichson
+  - Vinicius Mikuni
+  - Dongwei Lyu
+  - Yang Gao
+  - Omri Azencot
+  - Soon Hoe Lim
+  - Michael W. Mahoney
+  date: '2025-05-23'
+  year: '2025'
+  reference: Preprint
+  arxiv: '2505.17351'
+  doi: ''
+  inspire_id: null
+  url: https://arxiv.org/abs/2505.17351
+  topics:
+  - Generative models
+- title: Machine Learning-Assisted Unfolding for Neutrino Cross-section Measurements
+    with the OmniFold Technique
+  authors:
+  - Roger G. Huang
+  - Andrew Cudd
+  - Masaki Kawaue
+  - Tatsuya Kikawa
+  - Benjamin Nachman
+  - Vinicius Mikuni
+  - Callum Wilkinson
+  date: '2025-04-09'
+  year: '2025'
+  reference: Phys.Rev.D 112, 012008 (2025)
+  arxiv: '2504.06857'
+  doi: 10.1103/sp1f-n9k2
+  inspire_id: '2909886'
+  url: https://arxiv.org/abs/2504.06857
+  topics:
+  - Inference & unfolding
+- title: Stabilizing Neural Likelihood Ratio Estimation
+  authors:
+  - Fernando Torales Acosta
+  - Tanvi Wamorkar
+  - Vinicius Mikuni
+  - Benjamin Nachman
+  date: '2025-03-26'
+  year: '2025'
+  reference: Preprint
+  arxiv: '2503.20753'
+  doi: ''
+  inspire_id: '2904448'
+  url: https://arxiv.org/abs/2503.20753
+  topics:
+  - Inference & unfolding
+- title: Conditional Deep Generative Models for Simultaneous Simulation and Reconstruction
+    of Entire Events
+  authors:
+  - Etienne Dreyer
+  - Eilam Gross
+  - Dmitrii Kobylianskii
+  - Vinicius Mikuni
+  - Benjamin Nachman
+  date: '2025-03-25'
+  year: '2025'
+  reference: Phys.Rev.D 113, 032005 (2026)
+  arxiv: '2503.19981'
+  doi: 10.1103/14ph-482n
+  inspire_id: '2904417'
+  url: https://arxiv.org/abs/2503.19981
+  topics:
+  - Generative models
+- title: Tools for Unbinned Unfolding
+  authors:
+  - Ryan Milton
+  - Vinicius Mikuni
+  - Trevin Lee
+  - Miguel Arratia
+  - Tanvi Wamorkar
+  - Benjamin Nachman
+  date: '2025-03-12'
+  year: '2025'
+  reference: JINST 20, P05034 (2025)
+  arxiv: '2503.09720'
+  doi: 10.1088/1748-0221/20/05/P05034
+  inspire_id: '2899843'
+  url: https://arxiv.org/abs/2503.09720
+  topics:
+  - Inference & unfolding
+- title: A Method to Simultaneously Facilitate All Jet Physics Tasks
+  authors:
+  - Vinicius Mikuni
+  - Benjamin Nachman
+  date: '2025-02-18'
+  year: '2025'
+  reference: Phys.Rev.D 111, 054015 (2025)
+  arxiv: '2502.14652'
+  doi: 10.1103/PhysRevD.111.054015
+  inspire_id: '2892240'
+  url: https://arxiv.org/abs/2502.14652
+  topics:
+  - Physics & methods
+- title: The Fundamental Limit of Jet Tagging
+  authors:
+  - Joep Geuskens
+  - Nishank Gite
+  - Michael Krämer
+  - Vinicius Mikuni
+  - Alexander Mück
+  - Benjamin Nachman
+  - Humberto Reyes-González
+  date: '2024-11-04'
+  year: '2024'
+  reference: Phys.Rev.D 112, L091901 (2025)
+  arxiv: '2411.02628'
+  doi: 10.1103/mjj1-w2b1
+  inspire_id: '2845518'
+  url: https://arxiv.org/abs/2411.02628
+  topics:
+  - Physics & methods
+- title: Generative Unfolding with Distribution Mapping
+  authors:
+  - Anja Butter
+  - Sascha Diefenbacher
+  - Nathan Huetsch
+  - Vinicius Mikuni
+  - Benjamin Nachman
+  - Sofia Palacios Schweitzer
+  - Tilman Plehn
+  date: '2024-11-04'
+  year: '2024'
+  reference: SciPost Phys. 18, 200 (2025)
+  arxiv: '2411.02495'
+  doi: 10.21468/SciPostPhys.18.6.200
+  inspire_id: '2845530'
+  url: https://arxiv.org/abs/2411.02495
+  topics:
+  - Generative models
+  - Inference & unfolding
+- title: Point cloud-based diffusion models for the Electron-Ion Collider
+  authors:
+  - Jack Y. Araz
+  - Vinicius Mikuni
+  - Felix Ringer
+  - Nobuo Sato
+  - Fernando Torales Acosta
+  - Richard Whitehill
+  date: '2024-10-29'
+  year: '2024'
+  reference: Phys.Lett.B 868, 139694 (2025)
+  arxiv: '2410.22421'
+  doi: 10.1016/j.physletb.2025.139694
+  inspire_id: '2843821'
+  url: https://arxiv.org/abs/2410.22421
+  topics:
+  - Generative models
+- title: Multidimensional Deconvolution with Profiling
+  authors:
+  - Huanbiao Zhu
+  - Krish Desai
+  - Mikael Kuusela
+  - Vinicius Mikuni
+  - Benjamin Nachman
+  - Larry Wasserman
+  date: '2024-09-16'
+  year: '2024'
+  reference: Preprint
+  arxiv: '2409.10421'
+  doi: ''
+  inspire_id: '2828828'
+  url: https://arxiv.org/abs/2409.10421
+  topics:
+  - Inference & unfolding
+- title: 'Parnassus: An Automated Approach to Accurate, Precise, and Fast Detector
+    Simulation and Reconstruction'
+  authors:
+  - Etienne Dreyer
+  - Eilam Gross
+  - Dmitrii Kobylianskii
+  - Vinicius Mikuni
+  - Benjamin Nachman
+  - Nathalie Soybelman
+  date: '2024-05-31'
+  year: '2024'
+  reference: Phys.Rev.Lett. 133, 211902 (2024)
+  arxiv: '2406.01620'
+  doi: 10.1103/PhysRevLett.133.211902
+  inspire_id: '2794372'
+  url: https://arxiv.org/abs/2406.01620
+  topics:
+  - Generative models
+- title: The Landscape of Unfolding with Machine Learning
+  authors:
+  - Nathan Huetsch
+  - Javier Mariño Villadamigo
+  - Alexander Shmakov
+  - Sascha Diefenbacher
+  - Vinicius Mikuni
+  - Theo Heimel
+  - Michael Fenton
+  - Kevin Greif
+  - Benjamin Nachman
+  - Daniel Whiteson
+  - Anja Butter
+  - Tilman Plehn
+  date: '2024-04-29'
+  year: '2024'
+  reference: SciPost Phys. 18, 070 (2025)
+  arxiv: '2404.18807'
+  doi: 10.21468/SciPostPhys.18.2.070
+  inspire_id: '2781602'
+  url: https://arxiv.org/abs/2404.18807
+  topics:
+  - Inference & unfolding
+- title: Unifying Simulation and Inference with Normalizing Flows
+  authors:
+  - Haoxing Du
+  - Claudius Krause
+  - Vinicius Mikuni
+  - Benjamin Nachman
+  - Ian Pang
+  - David Shih
+  date: '2024-04-29'
+  year: '2024'
+  reference: Phys.Rev.D 111, 076004 (2025)
+  arxiv: '2404.18992'
+  doi: 10.1103/PhysRevD.111.076004
+  inspire_id: '2782249'
+  url: https://arxiv.org/abs/2404.18992
+  topics:
+  - Generative models
+  - Inference & unfolding
+- title: Solving Key Challenges in Collider Physics with Foundation Models
+  authors:
+  - Vinicius Mikuni
+  - Benjamin Nachman
+  date: '2024-04-24'
+  year: '2024'
+  reference: Phys.Rev.D 111, L051504 (2025)
+  arxiv: '2404.16091'
+  doi: 10.1103/PhysRevD.111.L051504
+  inspire_id: '2780716'
+  url: https://arxiv.org/abs/2404.16091
+  topics:
+  - Foundation models
+- title: Multi-differential Jet Substructure Measurement in High Q² ep collisions
+    with HERA-II Data
+  authors:
+  - Vinicius Massami Mikuni
+  date: '2024'
+  year: '2024'
+  reference: PoS EPS-HEP2023, 231 (2024)
+  arxiv: ''
+  doi: 10.22323/1.449.0231
+  inspire_id: '2765763'
+  url: https://inspirehep.net/literature/2765763
+  topics:
+  - Physics & methods
+- title: Distilling particle knowledge for fast reconstruction at high-energy physics
+    experiments
+  authors:
+  - Aritra Bal
+  - Tristan Brandes
+  - Fabio Iemmi
+  - Markus Klute
+  - Benedikt Maier
+  - Vinicius Mikuni
+  - Thea Aarrestad
+  date: '2023-11-21'
+  year: '2023'
+  reference: Mach.Learn.Sci.Tech. 5, 025033 (2024)
+  arxiv: '2311.12551'
+  doi: 10.1088/2632-2153/ad43b1
+  inspire_id: '2724876'
+  url: https://arxiv.org/abs/2311.12551
+  topics:
+  - Physics & methods
+- title: Full Phase Space Resonant Anomaly Detection
+  authors:
+  - Erik Buhmann
+  - Cedric Ewen
+  - Gregor Kasieczka
+  - Vinicius Mikuni
+  - Benjamin Nachman
+  - David Shih
+  date: '2023-10-10'
+  year: '2023'
+  reference: Phys.Rev.D 109, 055015 (2024)
+  arxiv: '2310.06897'
+  doi: 10.1103/PhysRevD.109.055015
+  inspire_id: '2708670'
+  url: https://arxiv.org/abs/2310.06897
+  topics:
+  - Anomaly detection
+- title: Improving Generative Model-based Unfolding with Schrödinger Bridges
+  authors:
+  - Sascha Diefenbacher
+  - Guan-Horng Liu
+  - Vinicius Mikuni
+  - Benjamin Nachman
+  - Weili Nie
+  date: '2023-08-23'
+  year: '2023'
+  reference: Phys.Rev.D 109, 076011 (2024)
+  arxiv: '2308.12351'
+  doi: 10.1103/PhysRevD.109.076011
+  inspire_id: '2690606'
+  url: https://arxiv.org/abs/2308.12351
+  topics:
+  - Generative models
+  - Inference & unfolding
+- title: Refining Fast Calorimeter Simulations with a Schrödinger Bridge
+  authors:
+  - Sascha Diefenbacher
+  - Vinicius Mikuni
+  - Benjamin Nachman
+  date: '2023-08-23'
+  year: '2023'
+  reference: JINST 20, P08007 (2025)
+  arxiv: '2308.12339'
+  doi: 10.1088/1748-0221/20/08/P08007
+  inspire_id: '2690613'
+  url: https://arxiv.org/abs/2308.12339
+  topics:
+  - Generative models
+- title: 'CaloScore v2: Single-shot Calorimeter Shower Simulation with Diffusion Models'
+  authors:
+  - Vinicius Mikuni
+  - Benjamin Nachman
+  date: '2023-08-07'
+  year: '2023'
+  reference: JINST 19, P02001 (2024)
+  arxiv: '2308.03847'
+  doi: 10.1088/1748-0221/19/02/P02001
+  inspire_id: '2686320'
+  url: https://arxiv.org/abs/2308.03847
+  topics:
+  - Generative models
+- title: Comparison of Point Cloud and Image-based Models for Calorimeter Fast Simulation
+  authors:
+  - Fernando Torales Acosta
+  - Vinicius Mikuni
+  - Benjamin Nachman
+  - Miguel Arratia
+  - Bishnu Karki
+  - Ryan Milton
+  - Piyush Karande
+  - Aaron Angerami
+  date: '2023-07-10'
+  year: '2023'
+  reference: JINST 19, P05003 (2024)
+  arxiv: '2307.04780'
+  doi: 10.1088/1748-0221/19/05/P05003
+  inspire_id: '2675964'
+  url: https://arxiv.org/abs/2307.04780
+  topics:
+  - Generative models
+- title: High-dimensional and Permutation Invariant Anomaly Detection
+  authors:
+  - Vinicius Mikuni
+  - Benjamin Nachman
+  date: '2023-06-06'
+  year: '2023'
+  reference: SciPost Phys. 16, 062 (2024)
+  arxiv: '2306.03933'
+  doi: 10.21468/SciPostPhys.16.3.062
+  inspire_id: '2666872'
+  url: https://arxiv.org/abs/2306.03933
+  topics:
+  - Anomaly detection
+- title: Fast Point Cloud Generation with Diffusion Models in High Energy Physics
+  authors:
+  - Vinicius Mikuni
+  - Benjamin Nachman
+  - Mariel Pettee
+  date: '2023-04-03'
+  year: '2023'
+  reference: Phys.Rev.D 108, 036025 (2023)
+  arxiv: '2304.01266'
+  doi: 10.1103/PhysRevD.108.036025
+  inspire_id: '2648821'
+  url: https://arxiv.org/abs/2304.01266
+  topics:
+  - Generative models
+- title: Optimal transport for a novel event description at hadron colliders
+  authors:
+  - Loukas Gouskos
+  - Fabio Iemmi
+  - Sascha Liechti
+  - Benedikt Maier
+  - Vinicius Mikuni
+  - Huilin Qu
+  date: '2022-11-03'
+  year: '2022'
+  reference: Phys.Rev.D 108, 096003 (2023)
+  arxiv: '2211.02029'
+  doi: 10.1103/PhysRevD.108.096003
+  inspire_id: '2716420'
+  url: https://arxiv.org/abs/2211.02029
+  topics:
+  - Physics & methods
+- title: Anomaly Detection under Coordinate Transformations
+  authors:
+  - Gregor Kasieczka
+  - Radha Mastandrea
+  - Vinicius Mikuni
+  - Benjamin Nachman
+  - Mariel Pettee
+  - David Shih
+  date: '2022-09-13'
+  year: '2022'
+  reference: Phys.Rev.D 107, 015009 (2023)
+  arxiv: '2209.06225'
+  doi: 10.1103/PhysRevD.107.015009
+  inspire_id: '2151484'
+  url: https://arxiv.org/abs/2209.06225
+  topics:
+  - Anomaly detection
+- title: Score-based Generative Models for Calorimeter Shower Simulation
+  authors:
+  - Vinicius Mikuni
+  - Benjamin Nachman
+  date: '2022-06-17'
+  year: '2022'
+  reference: Phys.Rev.D 106, 092009 (2022)
+  arxiv: '2206.11898'
+  doi: 10.1103/PhysRevD.106.092009
+  inspire_id: '2100413'
+  url: https://arxiv.org/abs/2206.11898
+  topics:
+  - Generative models
+- title: New directions for surrogate models and differentiable programming for High
+    Energy Physics detector simulation
+  authors:
+  - Andreas Adelmann
+  - Walter Hopkins
+  - Evangelos Kourlitis
+  - Michael Kagan
+  - Gregor Kasieczka
+  - Claudius Krause
+  - David Shih
+  - Vinicius Mikuni
+  - Benjamin Nachman
+  - Kevin Pedro
+  - Daniel Winklehner
+  date: '2022-03-15'
+  year: '2022'
+  reference: Preprint
+  arxiv: '2203.08806'
+  doi: ''
+  inspire_id: '2054074'
+  url: https://arxiv.org/abs/2203.08806
+  topics:
+  - Generative models
+- title: Online-compatible Unsupervised Non-resonant Anomaly Detection
+  authors:
+  - Vinicius Mikuni
+  - Benjamin Nachman
+  - David Shih
+  date: '2021-11-11'
+  year: '2021'
+  reference: Phys.Rev.D 105, 055006 (2022)
+  arxiv: '2111.06417'
+  doi: 10.1103/PhysRevD.105.055006
+  inspire_id: '1967073'
+  url: https://arxiv.org/abs/2111.06417
+  topics:
+  - Anomaly detection
+- title: Presenting Unbinned Differential Cross Section Results
+  authors:
+  - Miguel Arratia
+  - Anja Butter
+  - Mario Campanelli
+  - Vincent Croft
+  - Aishik Ghosh
+  - Dag Gillberg
+  - Kristin Lohwasser
+  - Bogdan Malaescu
+  - Vinicius Mikuni
+  - Benjamin Nachman
+  - Juan Rojo
+  - Jesse Thaler
+  - Ramon Winterhalder
+  date: '2021-09-27'
+  year: '2021'
+  reference: JINST 17, P01024 (2022)
+  arxiv: '2109.13243'
+  doi: 10.1088/1748-0221/17/01/P01024
+  inspire_id: '1932459'
+  url: https://arxiv.org/abs/2109.13243
+  topics:
+  - Inference & unfolding
+- title: Point Cloud Transformers applied to Collider Physics
+  authors:
+  - Vinicius Mikuni
+  - Florencia Canelli
+  date: '2021-02-09'
+  year: '2021'
+  reference: Mach.Learn.Sci.Tech. 2, 035027 (2021)
+  arxiv: '2102.05073'
+  doi: 10.1088/2632-2153/ac07f6
+  inspire_id: '1845779'
+  url: https://arxiv.org/abs/2102.05073
+  topics:
+  - Physics & methods
+- title: Highlights on top quark measurements from CMS
+  authors:
+  - V.M. Mikuni
+  date: '2021'
+  year: '2021'
+  reference: Nucl.Part.Phys.Proc. 312-317, 43 (2021)
+  arxiv: ''
+  doi: 10.1016/j.nuclphysbps.2021.05.010
+  inspire_id: '1917928'
+  url: https://inspirehep.net/literature/1917928
+  topics:
+  - Physics & methods
+- title: Unsupervised clustering for collider physics
+  authors:
+  - Vinicius Mikuni
+  - Florencia Canelli
+  date: '2020-09-28'
+  year: '2020'
+  reference: Phys.Rev.D 103, 092007 (2021)
+  arxiv: '2010.07106'
+  doi: 10.1103/PhysRevD.103.092007
+  inspire_id: '1822761'
+  url: https://arxiv.org/abs/2010.07106
+  topics:
+  - Anomaly detection
+- title: 'ABCNet: An attention-based method for particle tagging'
+  authors:
+  - Vinicius Mikuni
+  - Florencia Canelli
+  date: '2020-01-13'
+  year: '2020'
+  reference: Eur.Phys.J.Plus 135, 463 (2020)
+  arxiv: '2001.05311'
+  doi: 10.1140/epjp/s13360-020-00497-3
+  inspire_id: '1775788'
+  url: https://arxiv.org/abs/2001.05311
+  topics:
+  - Physics & methods
+- title: Investigation of crosstalk effects in RD53A modules with 100 and 150 μm thick
+    n-in-p planar sensors
+  authors:
+  - Arash Jofrehei
+  - Florencia Canelli
+  - Ben Kilminster
+  - Stefanos Leontsinis
+  - Anna Macchiolo
+  - Vinicius Massami Mikuni
+  - Lingxin Meng
+  date: '2020'
+  year: '2020'
+  reference: PoS EPS-HEP2019, 151 (2020)
+  arxiv: ''
+  doi: 10.22323/1.364.0151
+  inspire_id: '1830804'
+  url: https://inspirehep.net/literature/1830804
+  topics:
+  - Physics & methods
+- title: Latest CMS measurements of inclusive and differential top quark pair production
+  authors:
+  - Vinicius Massami Mikuni
+  date: '2019'
+  year: '2019'
+  reference: PoS LHCP2019, 141 (2019)
+  arxiv: ''
+  doi: 10.22323/1.350.0141
+  inspire_id: '1769934'
+  url: https://inspirehep.net/literature/1769934
+  topics:
+  - Physics & methods

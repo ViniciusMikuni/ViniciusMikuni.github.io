@@ -1,0 +1,189 @@
+- year: 2026
+  event: Rutgers
+  type: Colloquium
+  location: New Jersey, USA
+  title: Learning the Language of Nature
+  url: https://physics.rutgers.edu/physicsevents/events-calendar/icalrepeat.detail/2026/11/04/8728/-/learning-the-language-of-nature
+- year: 2026
+  event: Machine Learning for Physics
+  type: Invited talk
+  location: NTU, Taiwan
+  title: Searching For Anomalies with Foundation Models
+  url: https://www.lecospa.ntu.edu.tw/events/machine-learning-for-physics
+- year: 2026
+  event: PAI2026
+  type: Invited talk
+  location: Stanford, USA
+  title: Foundation models for physics
+  url: https://hai.stanford.edu/events/center-decoding-universe/c4du-annual-conference/2026-conference-physics-and-ai-pai26
+- year: 2026
+  event: ZPW2026
+  type: Invited talk
+  location: Zurich, Switzerland
+  title: 'OmniLearn: A Method to Simultaneously Facilitate All Jet Physics Tasks and
+    beyond'
+  url: https://www.physik.uzh.ch/events/ZPW2026/
+- year: 2025
+  event: EPS-HEP
+  type: ''
+  location: Marseille, France
+  title: Machine Learning-Assisted Measurement of Lepton-Jet Azimuthal Angular Asymmetries
+  url: https://indico.in2p3.fr/event/33627/contributions/155053/
+- year: 2024
+  event: RPM Talks LBL
+  type: Colloquium
+  location: Berkeley, USA
+  title: 'OmniLearn: Facilitating All Jet Physics Tasks'
+  url: https://physicstalks.lbl.gov/Public/h/20241031-Vinicius_M._Mikuni.html
+- year: 2024
+  event: Georgia Southern University
+  type: Colloquium
+  location: Georgia, USA
+  title: Accelerating Discovery in High Energy Physics using AI
+  url: ''
+- year: 2024
+  event: PHYSTAT
+  type: Invited talk
+  location: London, UK
+  title: Extending Unfolding Methods With Machine Learning
+  url: https://indico.cern.ch/event/1407421/contributions/6097843/
+- year: 2024
+  event: BOOST 2024
+  type: ''
+  location: Genova, Italy
+  title: 'OmniLearn: A Method to Simultaneously Facilitate All Jet Physics Tasks'
+  url: https://agenda.infn.it/event/37093/contributions/234300/
+- year: 2024
+  event: ICHEP 2024
+  type: ''
+  location: Prague, Czech Republic
+  title: Multi-differential Jet Substructure Measurement in High Q² ep collisions
+    with HERA-II Data
+  url: https://indico.cern.ch/event/1291157/contributions/5876617/
+- year: 2024
+  event: LHCP 2024
+  type: Invited talk
+  location: Boston, USA
+  title: 'Anomaly Detection: State-of-the-Art'
+  url: https://indico.cern.ch/event/1253590/contributions/5836410/
+- year: 2024
+  event: QCD at the Femtoscale in the Era of Big Data
+  type: Invited talk
+  location: Washington, USA
+  title: Diffusion Generative Models for Nuclear Physics Applications
+  url: https://www.int.washington.edu/programs-and-workshops/24-2a
+- year: 2024
+  event: Aspen Summer Workshop
+  type: ''
+  location: Aspen, USA
+  title: Foundational Models for Science
+  url: https://aspenphys.org/summer-workshops/#event2401
+- year: 2024
+  event: GTC 2024
+  type: Invited talk
+  location: California, USA
+  title: Using Generative AI To Enable Complex Physics Discovery at CERN
+  url: https://www.nvidia.com/gtc/
+- year: 2024
+  event: ML at HEP
+  type: Invited talk
+  location: KEK, Japan
+  title: 'Review: Low-level object reconstruction and simulation using ML'
+  url: https://conference-indico.kek.jp/event/253/timetable/#3-review-low-level-object-reco
+- year: 2023
+  event: ML4Jets 2023
+  type: ''
+  location: Hamburg University, Germany
+  title: High-Dimensional Diffusion Generative Models in Collider Physics
+  url: https://indico.cern.ch/event/1253794/contributions/5588587/
+- year: 2023
+  event: QCD@LHC
+  type: ''
+  location: Durham, UK
+  title: Jet substructure observables and azimuthal angular asymmetry in deep-inelastic
+    scattering with H1
+  url: https://conference.ippp.dur.ac.uk/event/1128/contributions/6547/
+- year: 2023
+  event: EPS-HEP2023
+  type: ''
+  location: Hamburg, Germany
+  title: Multi-differential Jet Substructure Measurement in High Q² ep collisions
+    with HERA-II Data
+  url: https://indico.desy.de/event/34916/contributions/146971/
+- year: 2023
+  event: Kapteyn Astronomical Institute
+  type: Colloquium
+  location: Groningen, NL
+  title: Collider Physics Innovations Powered by Machine Learning
+  url: ''
+- year: 2023
+  event: BOOST23
+  type: ''
+  location: California, USA
+  title: Multi-differential Jet Substructure Measurement in electron-proton Collisions
+  url: https://indico.physics.lbl.gov/event/975/contributions/8274/
+- year: 2023
+  event: Aspen Winter Conference
+  type: Invited talk
+  location: Aspen, USA
+  title: Anomaly detection
+  url: ''
+- year: 2022
+  event: NeurIPS 2022
+  type: Invited talk
+  location: New Orleans, USA
+  title: Collider Physics Innovations Powered by Machine Learning
+  url: https://ml4physicalsciences.github.io/2022
+- year: 2022
+  event: ML4Jets 2022
+  type: ''
+  location: Rutgers University, USA
+  title: Score-based Generative Models for Calorimeter Shower Simulation and Multi-differential
+    Jet Substructure Measurement in High Q² Deep-Inelastic Scattering with the H1
+    Detector
+  url: https://indico.cern.ch/event/1159913/
+- year: 2022
+  event: DIS2022
+  type: ''
+  location: Santiago de Compostela, Spain
+  title: Multi-differential Jet Substructure Measurement in High Q² Deep-Inelastic
+    Scattering with the H1 Detector
+  url: https://indico.cern.ch/event/1072533/contributions/4778186/
+- year: 2022
+  event: Learning to Discover
+  type: ''
+  location: Orsay, France
+  title: Online-compatible unsupervised nonresonant anomaly detection
+  url: https://indico.ijclab.in2p3.fr/event/5999/timetable/#39-online-compatible-unsupervi
+- year: 2020
+  event: QCD20
+  type: ''
+  location: Montpellier, France
+  title: Highlights on top quark measurements from CMS
+  url: https://www.lupm.in2p3.fr/users/qcd/qcd20/Program_and_Slides.html
+- year: 2020
+  event: ML4jets 2020
+  type: ''
+  location: New York University, USA
+  title: Quark-gluon discrimination with point clouds
+  url: https://indico.cern.ch/event/809820/contributions/3632575/
+- year: 2019
+  event: CMS TOP workshop
+  type: ''
+  location: DESY, Germany
+  title: 'b-tagging: status, ways to improve uncertainty, expectation from UL'
+  url: https://indico.cern.ch/event/848486/contributions/3610239/
+- year: 2019
+  event: 3rd CMS Machine Learning Workshop
+  type: ''
+  location: CERN, Switzerland
+  title: Deep neural networks for point cloud segmentation applied to low-pT τ lepton
+    reconstruction and Using Classification Without Labels (CWoLa) for multijet background
+    rejection
+  url: https://indico.cern.ch/event/798721/contributions/3468483/
+- year: 2019
+  event: LHCP 2019
+  type: ''
+  location: BUAP, Mexico
+  title: Latest CMS measurements of inclusive and differential top quark pair production
+  url: https://indico.cern.ch/event/687651/contributions/3427630/
