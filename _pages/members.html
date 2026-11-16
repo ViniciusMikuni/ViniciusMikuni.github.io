@@ -1,0 +1,12 @@
+---
+layout: research
+title: Members
+permalink: /members/
+excerpt: "Meet the group working on AI for the physical sciences at KMI, Nagoya University."
+---
+<div class="wrap">
+  <header class="page-intro"><p class="eyebrow">People · KMI, Nagoya University</p><h1>Members</h1><p>Exploring the physical sciences together, through machine learning and scientific data.</p></header>
+  <div class="members-grid">{% for member in site.data.members %}
+    <article class="member-card"><div class="member-photo"><img src="{{ '/images/' | append: member.image | relative_url }}" alt="{{ member.alt | escape }}" loading="lazy" decoding="async"></div><div class="member-copy"><p class="eyebrow">{{ member.role }}</p><h2>{{ member.name }}</h2><p class="member-topic">{{ member.topic }}</p></div></article>
+  {% endfor %}</div>
+</div>
